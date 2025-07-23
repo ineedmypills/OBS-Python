@@ -1,11 +1,11 @@
-## Embedded Python 3.10.11 for OBS Studio
+## Embedded Python for OBS Studio
 
-This package provides an embeddable version of **Python 3.10.11**, specifically optimized for use with **OBS Studio**. It includes essential components for developing powerful scripts and plugins to extend OBS functionality.
+This package provides an embeddable version of **Python**, specifically optimized for use with **OBS Studio**. It includes essential components for developing powerful scripts and plugins to extend OBS functionality.
 
 ### Package Contents
 
-* **Python 3.10.11**: A compact, embeddable version of the Python interpreter.
-* **PySide6**: A set of Python bindings for the **Qt6** library, enabling the creation of cross-platform graphical applications.
+* **Python**: A compact, embeddable version of the Python interpreter.
+* **PySide2**: A set of Python bindings for the **Qt5** library, enabling the creation of cross-platform graphical applications.
 * **OBS-Websocket**: A Python client library for the **OBS-Websocket** protocol, designed for remote control of OBS Studio.
 
 ---
